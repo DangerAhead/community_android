@@ -1,0 +1,2 @@
+rootProject.name='post_example'
+include ':app'
